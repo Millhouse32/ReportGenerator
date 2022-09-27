@@ -3,23 +3,40 @@ using Aspose.Cells.Utility;
 
 namespace ReportGenerator.Workers
 {
-    public static class ToXLSX
+    /// <summary>
+    /// Worker class to support csv translation
+    /// </summary>
+    public static class ToCSV
     {
-        public static void ConvertToXLSX(string json, string filename)
+        /// <summary>
+        /// Method that converts json string, converts it to csv and outputs it to file
+        /// </summary>
+        /// <param name="json">json string</param>
+        /// <param name="filename">output file</param>
+        public static void ConvertToCSV(string json, string filename)
         {
-            filename += ".Xlsx";
+            // appending correct .csv extension to filename
+            string csv = ".csv";
 
+            // create csv work book
             var workbook = new Workbook();
 
+            /// create sheet inside workbook
             var worksheet = workbook.Worksheets[0];
 
+            // sets worksheet name to filename without extension
+            worksheet.Name = filename;
+
+            // defines layout options
             var layoutOptions = new JsonLayoutOptions();
 
             layoutOptions.ArrayAsTable = true;
 
+            // imports json to workbook
             JsonUtility.ImportData(json, worksheet.Cells, 0, 0, layoutOptions);
 
-            workbook.Save(filename, SaveFormat.Xlsx);  
+            // outputs workbook to file
+            workbook.Save(filename+csv, SaveFormat.Csv);  
         }
     }
 }
