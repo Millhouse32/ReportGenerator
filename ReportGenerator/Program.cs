@@ -9,8 +9,7 @@ using System.Xml.Linq;
 using Aspose.Cells;
 using Aspose.Cells.Utility;
 using Newtonsoft.Json;
-using static System.Net.Mime.MediaTypeNames;
-using SaveOptions = Aspose.Cells.SaveOptions;
+using ReportGenerator.Workers;
 
 namespace ReportGenerator
 {
@@ -18,24 +17,23 @@ namespace ReportGenerator
     { 
         public static void Main(string[] args)
         {
-            string data = @"[ {""name"": ""Nick Miller"", ""age"": ""21""},
-            {""name"": ""john dow"", ""age"" : ""25""} ]";
+            string data = "{\n    \"email\":[\n        {\n            \"type\":\"home\",\n            \"name\":\"john.doe@gmail.com\"\n        },\n        {\n            \"type\":\"work\",\n            \"name\":\"jdoe@gmail.com\"\n        }\n    ]\n}";
 
 
-            ToXML(data);
+            ToXML.ConvertToXML(data, "email");
 
-            ToEXCEL(data);
+            //ToEXCEL(data);
             
         }
 
-        public static void ToXML(string json)
-        {
-            XmlDocument doc = new XmlDocument();
+        //public static void ToXML(string json)
+        //{
+        //    XmlDocument doc = new XmlDocument();
 
-            var xml = XDocument.Load(JsonReaderWriterFactory.CreateJsonReader(Encoding.ASCII.GetBytes(json), new XmlDictionaryReaderQuotas()));
+        //    var xml = XDocument.Load(JsonReaderWriterFactory.CreateJsonReader(Encoding.ASCII.GetBytes(json), new XmlDictionaryReaderQuotas()));
 
-            Console.WriteLine(xml);
-        }
+        //    Console.WriteLine(xml);
+        //}
 
         public static void ToEXCEL(string json)
         {
