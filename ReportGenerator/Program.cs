@@ -17,6 +17,8 @@ namespace ReportGenerator
             ToXLSX.ConvertToXLSX(data, "email", filepath);
 
             ToXLSM.ConvertToXLSM(data, "email", filepath);
+
+            ToJSON.ConvertToJSON(data, "email", filepath);
         }
     }
 }
