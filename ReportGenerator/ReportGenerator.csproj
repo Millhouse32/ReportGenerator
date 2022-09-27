@@ -10,9 +10,11 @@
   <ItemGroup>
     <None Remove="Newtonsoft.Json" />
     <None Remove="WatsonWebsocket" />
+    <None Remove="Aspose.Cells" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="WatsonWebsocket" Version="3.0.1" />
+    <PackageReference Include="Aspose.Cells" Version="22.9.0" />
   </ItemGroup>
 </Project>
