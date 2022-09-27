@@ -41,8 +41,11 @@ namespace ReportGenerator.Workers
             /// imports json to workbook
             JsonUtility.ImportData(json, worksheet.Cells, 0, 0, layoutOptions);
 
-            //. outputs workbook to file
+            /// outputs workbook to file
             workbook.Save(filepath + filename + xlsm, saveOptions);
+
+            /// tells user file has been created
+            Console.WriteLine(filename + xlsm + " created!");
         }
     }
 }

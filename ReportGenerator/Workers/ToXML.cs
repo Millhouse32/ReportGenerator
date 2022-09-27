@@ -15,7 +15,7 @@ namespace ReportGenerator.Workers
         /// </summary>
         /// <param name="json">json string</param>
         /// <param name="filename">name of file</param>
-        public static void ConvertToXML(string json, string filename)
+        public static void ConvertToXML(string json, string filename, string filepath)
         {
             /// adding .xml to end of filename
             filename += ".xml";
@@ -26,11 +26,11 @@ namespace ReportGenerator.Workers
             /// converting JSON to xml
             var xml = XDocument.Load(JsonReaderWriterFactory.CreateJsonReader(Encoding.ASCII.GetBytes(json), new XmlDictionaryReaderQuotas()));
 
-            /// displaying xml to console window
-            Console.WriteLine(xml);
-
             /// writing xml to file
-            xml.Save(filename);
+            xml.Save(filepath+filename);
+
+            /// tells user the file has been created
+            Console.WriteLine(filename + " created!");
         }
     }
 }

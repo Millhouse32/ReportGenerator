@@ -10,7 +10,7 @@ namespace ReportGenerator
 
             string filepath = "../../../../Reports/";
 
-            ToXML.ConvertToXML(data, "email");
+            ToXML.ConvertToXML(data, "email", filepath);
 
             ToCSV.ConvertToCSV(data, "email", filepath);
 
