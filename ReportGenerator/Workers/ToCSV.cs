@@ -13,7 +13,7 @@ namespace ReportGenerator.Workers
         /// </summary>
         /// <param name="json">json string</param>
         /// <param name="filename">output file</param>
-        public static void ConvertToCSV(string json, string filename)
+        public static void ConvertToCSV(string json, string filename, string filepath)
         {
             // appending correct .csv extension to filename
             string csv = ".csv";
@@ -24,19 +24,25 @@ namespace ReportGenerator.Workers
             /// create sheet inside workbook
             var worksheet = workbook.Worksheets[0];
 
-            // sets worksheet name to filename without extension
+            /// sets worksheet name to filename without extension
             worksheet.Name = filename;
 
-            // defines layout options
+            /// defines layout options
             var layoutOptions = new JsonLayoutOptions();
 
             layoutOptions.ArrayAsTable = true;
 
-            // imports json to workbook
+            /// save object
+            XlsSaveOptions saveOptions = new XlsSaveOptions(SaveFormat.Csv);
+
+            /// allows the cretion of new directory if does not exist
+            saveOptions.CreateDirectory = true;
+
+            /// imports json to workbook
             JsonUtility.ImportData(json, worksheet.Cells, 0, 0, layoutOptions);
 
-            // outputs workbook to file
-            workbook.Save(filename+csv, SaveFormat.Csv);  
+            //. outputs workbook to file
+            workbook.Save(filepath+filename+csv, saveOptions);  
         }
     }
 }

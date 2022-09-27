@@ -1,5 +1,4 @@
-﻿using System;
-using System.Runtime.Serialization.Json;
+﻿using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Xml;
 using System.Xml.Linq;
@@ -18,19 +17,19 @@ namespace ReportGenerator.Workers
         /// <param name="filename">name of file</param>
         public static void ConvertToXML(string json, string filename)
         {
-            // adding .xml to end of filename
+            /// adding .xml to end of filename
             filename += ".xml";
 
-            // creating xml document
+            /// creating xml document
             XmlDocument doc = new XmlDocument();
 
-            // converting JSON to xml
+            /// converting JSON to xml
             var xml = XDocument.Load(JsonReaderWriterFactory.CreateJsonReader(Encoding.ASCII.GetBytes(json), new XmlDictionaryReaderQuotas()));
 
-            // displaying xml to console window
+            /// displaying xml to console window
             Console.WriteLine(xml);
 
-            // writing xml to file
+            /// writing xml to file
             xml.Save(filename);
         }
     }
