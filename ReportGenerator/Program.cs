@@ -15,6 +15,8 @@ namespace ReportGenerator
             ToCSV.ConvertToCSV(data, "email", filepath);
 
             ToXLSX.ConvertToXLSX(data, "email", filepath);
+
+            ToXLSM.ConvertToXLSM(data, "email", filepath);
         }
     }
 }
