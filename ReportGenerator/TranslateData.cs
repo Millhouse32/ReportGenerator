@@ -11,7 +11,7 @@ namespace ReportGenerator
     {
         public TranslateData(string json, string filename, string filepath)
         {
-            Thread CSVThread = new ThreadStart(ToCSV.ConvertToCSV(json, filename, filepath));
+            //Thread CSVThread = new ThreadStart(ToCSV.ConvertToCSV(json, filename, filepath));
         }
     }
 }

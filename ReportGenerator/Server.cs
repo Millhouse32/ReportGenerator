@@ -2,7 +2,7 @@
 using System;
 using System.Text;
 
-namespace Server
+namespace ReportGenerator.ServerNamespace
 {
     public class Server
     {
@@ -27,13 +27,17 @@ namespace Server
         /// </summary>
         public Server()
         {
-            WsServer = new WatsonWsServer("localhost", 60000, true|false);
+            WsServer = new WatsonWsServer("localhost", 60000, false);
 
             WsServer.ClientConnected += ClientConnected;
 
             WsServer.ClientDisconnected += ClientDisconnect;
 
             WsServer.MessageReceived += SocketMessageReceived;
+
+            WsServer.Start();
+
+            Console.WriteLine("Server Started!");
         }
 
         /// <summary>
@@ -41,7 +45,7 @@ namespace Server
         /// </summary>
         /// <param name="sender">client</param>
         /// <param name="args">information of client</param>
-        private void ClientConnected(object sender, ClientConnectedEventArgs args)
+        public static void ClientConnected(object sender, ClientConnectedEventArgs args)
         {
             Console.WriteLine("New client connected from :: " + args.IpPort);
         }
@@ -51,7 +55,7 @@ namespace Server
         /// </summary>
         /// <param name="sender">client</param>
         /// <param name="args">information of client</param>
-        private void ClientDisconnect(object sender, ClientDisconnectedEventArgs args)
+        public static void ClientDisconnect(object sender, ClientDisconnectedEventArgs args)
         {
             Console.WriteLine("Client disconnected :: " + args.IpPort);
         }
@@ -61,12 +65,12 @@ namespace Server
         /// </summary>
         /// <param name="sender">client</param>
         /// <param name="args">client message and client data</param>
-        private void SocketMessageReceived(object sender, MessageReceivedEventArgs args)
+        public static void SocketMessageReceived(object sender, MessageReceivedEventArgs args)
         {
             string message = Encoding.UTF8.GetString(args.Data);
 
             Console.WriteLine("Message received... Sender :: " + args.IpPort + " Message :: " + message);
-            MessageReceived?.Invoke(this, message);
+            MessageReceived?.Invoke(null, message);
         }
     }
 }

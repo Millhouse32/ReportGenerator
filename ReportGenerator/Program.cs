@@ -1,4 +1,5 @@
 ﻿using ReportGenerator.Workers;
+using ReportGenerator.ServerNamespace;
 
 namespace ReportGenerator
 {
@@ -10,17 +11,28 @@ namespace ReportGenerator
 
             string filepath = "../../../../Reports/";
 
-            ToXML.ConvertToXML(data, "email", filepath);
+            Server server = new Server();
 
-            ToCSV.ConvertToCSV(data, "email", filepath);
+            Server.MessageReceived += new EventHandler<string>(HandleMessageReceived);
 
-            ToXLSX.ConvertToXLSX(data, "email", filepath);
+            //ToXML.ConvertToXML(data, "email", filepath);
 
-            ToXLSM.ConvertToXLSM(data, "email", filepath);
+            //ToCSV.ConvertToCSV(data, "email", filepath);
 
-            ToJSON.ConvertToJSON(data, "email", filepath);
+            //ToXLSX.ConvertToXLSX(data, "email", filepath);
 
-            ToXLT.ConvertToXLT(data, "email", filepath);
+            //ToXLSM.ConvertToXLSM(data, "email", filepath);
+
+            //ToJSON.ConvertToJSON(data, "email", filepath);
+
+            //ToXLT.ConvertToXLT(data, "email", filepath);
+
+            Console.ReadLine();
+        }
+
+        private static void HandleMessageReceived(object sender, string args)
+        {
+            Console.WriteLine($"Event invoked with Message({args})");
         }
     }
 }
