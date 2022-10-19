@@ -1,15 +1,16 @@
 ﻿using ReportGenerator.Workers;
 using ReportGenerator.ServerNamespace;
+using System.Threading;
 
 namespace ReportGenerator
 {
     class Program 
     { 
+        public string data = "{\n\"email\":[\n{\n\"type\":\"home\",\n\"name\":\"john.doe@gmail.com\"\n},\n{\n\"type\":\"work\",\n\"name\":\"jdoe@gmail.com\"\n}\n]\n}";
+
+        public static string filepath = "../../../../Reports/";
         public static void Main(string[] args)
         {
-            string data = "{\n\"email\":[\n{\n\"type\":\"home\",\n\"name\":\"john.doe@gmail.com\"\n},\n{\n\"type\":\"work\",\n\"name\":\"jdoe@gmail.com\"\n}\n]\n}";
-
-            string filepath = "../../../../Reports/";
 
             Server server = new Server();
 
@@ -33,6 +34,17 @@ namespace ReportGenerator
         private static void HandleMessageReceived(object sender, string args)
         {
             Console.WriteLine($"Event invoked with Message({args})");
+
+            //Thread xmlThread = new Thread(new ThreadStart(ToXML.ConvertToXML(args, "email", "../../../../Reports/"));
+
+            Thread xmlThread = new Thread(() => ToXML.ConvertToXML(args, "email", filepath));
+            xmlThread.Start();
+
+            Thread csvThread = new Thread(() => ToCSV.ConvertToCSV(args, "email", filepath));
+            csvThread.Start();
+
+            //Thread ToXLSX = new Thread(() => ToXLSX.)
+            
         }
     }
 }
