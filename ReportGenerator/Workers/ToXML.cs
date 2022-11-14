@@ -31,6 +31,7 @@ namespace ReportGenerator.Workers
 
             /// tells user the file has been created
             Console.WriteLine(filename + " created!");
+
         }
     }
 }
