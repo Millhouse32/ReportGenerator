@@ -27,7 +27,7 @@ namespace ReportGenerator.ServerNamespace
         /// </summary>
         public Server()
         {
-            WsServer = new WatsonWsServer("localhost", 60000, false);
+            WsServer = new WatsonWsServer("localhost", 9292, false);
 
             WsServer.ClientConnected += ClientConnected;
 
@@ -67,9 +67,10 @@ namespace ReportGenerator.ServerNamespace
         /// <param name="args">client message and client data</param>
         public static void SocketMessageReceived(object sender, MessageReceivedEventArgs args)
         {
-            string message = Encoding.UTF8.GetString(args.Data);
+            string message = Encoding.Default.GetString(args.Data);
+            
 
-            Console.WriteLine("Message received... Sender :: " + args.IpPort + " Message :: " + message);
+            //Console.WriteLine("Message received... Sender :: " + args.IpPort + " Message :: " + message);
             MessageReceived?.Invoke(null, message);
         }
     }
