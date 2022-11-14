@@ -1,0 +1,555 @@
+[
+ {
+  "PLU": 184,
+  "Item": "Shoulder Butt",
+  "Price": "1.99",
+  "CutType": "Pork Butts",
+  "PoundsSold": 143.3
+ },
+ {
+  "PLU": 185,
+  "Item": "Shoulder Blade Steaks",
+  "Price": "2.49",
+  "CutType": "Pork Cuts and Roasts",
+  "PoundsSold": 168
+ },
+ {
+  "PLU": 195,
+  "Item": "Pork Loin - Whole",
+  "Price": "2.49",
+  "CutType": "Pork Cuts and Roasts",
+  "PoundsSold": 275
+ },
+ {
+  "PLU": 196,
+  "Item": "Rib End Pork Roast",
+  "Price": "1.99",
+  "CutType": "Pork Cuts and Roasts",
+  "PoundsSold": 539.9
+ },
+ {
+  "PLU": 197,
+  "Item": "Baby Back Ribs",
+  "Price": "3.59",
+  "CutType": "Pork Ribs",
+  "PoundsSold": 474.8
+ },
+ {
+  "PLU": 198,
+  "Item": "Western Ribs",
+  "Price": "2.99",
+  "CutType": "Pork Ribs",
+  "PoundsSold": 212.3
+ },
+ {
+  "PLU": 199,
+  "Item": "Salt and Pepper (5# 2.85) (10# 2.75)",
+  "Price": "2.95",
+  "CutType": "Pork Bulk Sausage",
+  "PoundsSold": 417
+ },
+ {
+  "PLU": 201,
+  "Item": "Fresh Side Strips",
+  "Price": "7.35",
+  "CutType": "Pork Sides",
+  "PoundsSold": 64.1
+ },
+ {
+  "PLU": 202,
+  "Item": "Fresh Side - Whole with Skin",
+  "Price": "5.45",
+  "CutType": "Fresh Side",
+  "PoundsSold": 235.4
+ },
+ {
+  "PLU": 203,
+  "Item": "Fresh Side - 1\/2 with Skin",
+  "Price": "5.95",
+  "CutType": "Fresh Side",
+  "PoundsSold": 235.4
+ },
+ {
+  "PLU": 205,
+  "Item": "Boneless Pork Chops",
+  "Price": "4.45",
+  "CutType": "Pork Chops",
+  "PoundsSold": 500
+ },
+ {
+  "PLU": 207,
+  "Item": "Fresh Ham",
+  "Price": "2.39",
+  "CutType": "Fresh Ham",
+  "PoundsSold": 600.3
+ },
+ {
+  "PLU": 208,
+  "Item": "Fresh Ham 1\/2",
+  "Price": "2.39",
+  "CutType": "Fresh Ham",
+  "PoundsSold": 600.3
+ },
+ {
+  "PLU": 210,
+  "Item": "City Chicken",
+  "Price": "5.39",
+  "CutType": "Fresh Pork Cuts and Roasts",
+  "PoundsSold": 48.2
+ },
+ {
+  "PLU": 214,
+  "Item": "Picnic Ham (smoked)",
+  "Price": "2.39",
+  "CutType": "Smoked Ham",
+  "PoundsSold": 475.9
+ },
+ {
+  "PLU": 215,
+  "Item": "Center Cut Prok Chops",
+  "Price": "3.49",
+  "CutType": "Pork Chops",
+  "PoundsSold": 320.1
+ },
+ {
+  "PLU": 216,
+  "Item": "Marinated Pork Chops",
+  "Price": "3.89",
+  "CutType": "Pork Chops",
+  "PoundsSold": 78
+ },
+ {
+  "PLU": 217,
+  "Item": "Porterhouse Chops",
+  "Price": "3.49",
+  "CutType": "Pork Chops",
+  "PoundsSold": 112
+ },
+ {
+  "PLU": 218,
+  "Item": "French Rib Chops",
+  "Price": "4.89",
+  "CutType": "Pork Chops",
+  "PoundsSold": 93
+ },
+ {
+  "PLU": 220,
+  "Item": "Spare Ribs",
+  "Price": "2.49",
+  "CutType": "Pork Ribs",
+  "PoundsSold": 585.2
+ },
+ {
+  "PLU": 221,
+  "Item": "Boneless Pork Loin",
+  "Price": "3.99",
+  "CutType": "Pork Chops",
+  "PoundsSold": 45.2
+ },
+ {
+  "PLU": 223,
+  "Item": "Stuffed Pork Chops",
+  "Price": "4.95",
+  "CutType": "Pork Chops",
+  "PoundsSold": 320.1
+ },
+ {
+  "PLU": 226,
+  "Item": "Smoked Pork Chops",
+  "Price": "4.95",
+  "CutType": "Pork Chops",
+  "PoundsSold": 214.3
+ },
+ {
+  "PLU": 227,
+  "Item": "Ham Slices",
+  "Price": "3.89",
+  "CutType": "Smoked Ham",
+  "PoundsSold": 418.9
+ },
+ {
+  "PLU": 228,
+  "Item": "Jowls",
+  "Price": "2.49",
+  "CutType": "Smoked Ham",
+  "PoundsSold": 490.9
+ },
+ {
+  "PLU": 239,
+  "Item": "Italian (5# 2.85) (10# 2.75)",
+  "Price": "2.95",
+  "CutType": "Pork Bulk Sausage",
+  "PoundsSold": 110.8
+ },
+ {
+  "PLU": 240,
+  "Item": "Country(5# 2.85) (10# 2.75)",
+  "Price": "2.95",
+  "CutType": "Pork Bulk Sausage",
+  "PoundsSold": 544.3
+ },
+ {
+  "PLU": 241,
+  "Item": "Sweet Italian",
+  "Price": "3.95",
+  "CutType": "Fresh Pork Sausage Links",
+  "PoundsSold": 343.8
+ },
+ {
+  "PLU": 242,
+  "Item": "Mild Hungarian",
+  "Price": "3.95",
+  "CutType": "Fresh Pork Sausage Links",
+  "PoundsSold": 491.1
+ },
+ {
+  "PLU": 243,
+  "Item": "Hot Hungarian",
+  "Price": "3.95",
+  "CutType": "Fresh Pork Sausage Links",
+  "PoundsSold": 437.8
+ },
+ {
+  "PLU": 244,
+  "Item": "Maple (5# 2.85)( 10# 2.75)",
+  "Price": "2.95",
+  "CutType": "Pork Bulk Sausage",
+  "PoundsSold": 43
+ },
+ {
+  "PLU": 245,
+  "Item": "Fresh Ground Pork",
+  "Price": "2.49",
+  "CutType": "Pork Bulk Sausage",
+  "PoundsSold": 430.8
+ },
+ {
+  "PLU": 248,
+  "Item": "Hot Mexican Chorizo",
+  "Price": "3.95",
+  "CutType": "Fresh Pork Sausage Links",
+  "PoundsSold": 301
+ },
+ {
+  "PLU": 250,
+  "Item": "Baby Links",
+  "Price": "4.89",
+  "CutType": "Fresh Pork Sausage Links",
+  "PoundsSold": 531.8
+ },
+ {
+  "PLU": 255,
+  "Item": "Pepper And Onion",
+  "Price": "3.95",
+  "CutType": "Fresh Pork Sausage Links",
+  "PoundsSold": 313.3
+ },
+ {
+  "PLU": 261,
+  "Item": "Bratwurst",
+  "Price": "3.95",
+  "CutType": "Fresh Pork Sausage Links",
+  "PoundsSold": 304.3
+ },
+ {
+  "PLU": 283,
+  "Item": "Canadian Bacon",
+  "Price": "6.95",
+  "CutType": "Bacon",
+  "PoundsSold": 489
+ },
+ {
+  "PLU": 286,
+  "Item": "Bacon - smoked",
+  "Price": "7.95",
+  "CutType": "Bacon",
+  "PoundsSold": 341.5
+ },
+ {
+  "PLU": 287,
+  "Item": "Bacon Ends",
+  "Price": "2.89",
+  "CutType": "Bacon",
+  "PoundsSold": 574.4
+ },
+ {
+  "PLU": 288,
+  "Item": "Slab Bacon",
+  "Price": "6.95",
+  "CutType": "Bacon",
+  "PoundsSold": 453.5
+ },
+ {
+  "PLU": 291,
+  "Item": "Ham (semi boneless)",
+  "Price": "2.69",
+  "CutType": "Smoked Ham",
+  "PoundsSold": 205.5
+ },
+ {
+  "PLU": 292,
+  "Item": "Spiral Honey Ham",
+  "Price": "4.95",
+  "CutType": "Smoked Ham",
+  "PoundsSold": 80.9
+ },
+ {
+  "PLU": 293,
+  "Item": "Ham Baby",
+  "Price": "4.95",
+  "CutType": "Smoked Ham",
+  "PoundsSold": 530.9
+ },
+ {
+  "PLU": 508,
+  "Item": "Mild Hungarian",
+  "Price": "4.49",
+  "CutType": "Smoked Sausage",
+  "PoundsSold": 102.4
+ },
+ {
+  "PLU": 601,
+  "Item": "Polish",
+  "Price": "3.95",
+  "CutType": "Smoked Sausage",
+  "PoundsSold": 468.8
+ },
+ {
+  "PLU": 701,
+  "Item": "Hot Hungarian",
+  "Price": "4.49",
+  "CutType": "Smoked Sausage",
+  "PoundsSold": 441.8
+ },
+ {
+  "PLU": 801,
+  "Item": "Ham Hocks (smoked)",
+  "Price": "2.39",
+  "CutType": "Smoked Ham",
+  "PoundsSold": 405.5
+ },
+ {
+  "PLU": 1842,
+  "Item": "Shoulder Butt - 50# or more",
+  "Price": "1.99",
+  "CutType": "Pork Butts",
+  "PoundsSold": 50.3
+ },
+ {
+  "PLU": 1961,
+  "Item": "Pork Loin Crown Roast",
+  "Price": "5.39",
+  "CutType": "Pork Cuts and Roasts",
+  "PoundsSold": 591
+ },
+ {
+  "PLU": 1971,
+  "Item": "Baby Back Ribs - 3 Slabs or More",
+  "Price": "3.49",
+  "CutType": "Pork Ribs",
+  "PoundsSold": 416.2
+ },
+ {
+  "PLU": 1981,
+  "Item": "Western Ribs-Boneless",
+  "Price": "3.39",
+  "CutType": "Pork Ribs",
+  "PoundsSold": 462.3
+ },
+ {
+  "PLU": 2031,
+  "Item": "Fresh Side - Sliced",
+  "Price": "7.35",
+  "CutType": "Fresh Side",
+  "PoundsSold": 48.2
+ },
+ {
+  "PLU": 2077,
+  "Item": "Fresh Ham (Boneless)",
+  "Price": "2.89",
+  "CutType": "Fresh Ham",
+  "PoundsSold": 300.1
+ },
+ {
+  "PLU": 2141,
+  "Item": "Fresh Picnic Ham",
+  "Price": "1.89",
+  "CutType": "Fresh Ham",
+  "PoundsSold": 235.4
+ },
+ {
+  "PLU": 2151,
+  "Item": "Center Cut Pork Roast",
+  "Price": "3.89",
+  "CutType": "Pork Chops",
+  "PoundsSold": 67.3
+ },
+ {
+  "PLU": 2199,
+  "Item": "Sirloin Roast",
+  "Price": "3.49",
+  "CutType": "Pork Cuts and Roasts",
+  "PoundsSold": 318.2
+ },
+ {
+  "PLU": 2201,
+  "Item": "Spare Ribs - 3 Slabs or More",
+  "Price": "2.39",
+  "CutType": "Pork Ribs",
+  "PoundsSold": 327
+ },
+ {
+  "PLU": 2202,
+  "Item": "Spare Ribs - 30# Case",
+  "Price": "2.29",
+  "CutType": "Pork Ribs",
+  "PoundsSold": 564.2
+ },
+ {
+  "PLU": 2211,
+  "Item": "Pencil Tenderloin - Filet",
+  "Price": "3.95",
+  "CutType": "Fresh Pork Cuts and Roasts",
+  "PoundsSold": 300.2
+ },
+ {
+  "PLU": 2281,
+  "Item": "Jowls (sliced)",
+  "Price": "3.95",
+  "CutType": "Smoked Ham",
+  "PoundsSold": 420.5
+ },
+ {
+  "PLU": 2401,
+  "Item": "5# or More Fresh Ground Pork",
+  "Price": "2.49",
+  "CutType": "Pork Bulk Sausage",
+  "PoundsSold": 125.1
+ },
+ {
+  "PLU": 2402,
+  "Item": "10# or more Fresh Ground Pork",
+  "Price": "2.49",
+  "CutType": "Pork Bulk Sausage",
+  "PoundsSold": 234.3
+ },
+ {
+  "PLU": 2416,
+  "Item": "Italian",
+  "Price": "4.49",
+  "CutType": "Smoked Sausage",
+  "PoundsSold": 197.4
+ },
+ {
+  "PLU": 2501,
+  "Item": "Slovenian",
+  "Price": "4.49",
+  "CutType": "Smoked Sausage",
+  "PoundsSold": 58.4
+ },
+ {
+  "PLU": 2502,
+  "Item": "Jalapeno",
+  "Price": "4.49",
+  "CutType": "Smoked Sausage",
+  "PoundsSold": 267.4
+ },
+ {
+  "PLU": 2552,
+  "Item": "Pepper and Onion",
+  "Price": "4.49",
+  "CutType": "Smoked Sausage",
+  "PoundsSold": 423
+ },
+ {
+  "PLU": 2604,
+  "Item": "Beef Keiasi",
+  "Price": "4.99",
+  "CutType": "Smoked Sausage",
+  "PoundsSold": 310.5
+ },
+ {
+  "PLU": 2610,
+  "Item": "Hawaiian Brats",
+  "Price": "3.95",
+  "CutType": "Fresh Pork Sausage Links",
+  "PoundsSold": 596.1
+ },
+ {
+  "PLU": 2613,
+  "Item": "Cheddar Brats",
+  "Price": "4.49",
+  "CutType": "Smoked Sausage",
+  "PoundsSold": 138.4
+ },
+ {
+  "PLU": 3241,
+  "Item": "Ham (boneless) (95% fat free)",
+  "Price": "5.95",
+  "CutType": "Smoked Ham",
+  "PoundsSold": 70.1
+ },
+ {
+  "PLU": 6011,
+  "Item": "Fresh Polish Kieasa",
+  "Price": "3.95",
+  "CutType": "Fresh Pork Sausage Links",
+  "PoundsSold": 84.8
+ },
+ {
+  "PLU": 8569,
+  "Item": "1\/2 Hog",
+  "Price": "2.69",
+  "CutType": "Freezer Hogs",
+  "PoundsSold": 402.3
+ },
+ {
+  "PLU": 9124,
+  "Item": "Sausage Patties",
+  "Price": "3.89",
+  "CutType": "Fresh Pork Sausage Links",
+  "PoundsSold": 582
+ },
+ {
+  "PLU": 9203,
+  "Item": "Garlic Knockwurst",
+  "Price": "3.95",
+  "CutType": "Smoked Ham",
+  "PoundsSold": 294.9
+ },
+ {
+  "PLU": 9206,
+  "Item": "Dogs (4-1#)",
+  "Price": "3.95",
+  "CutType": "Hot Dogs",
+  "PoundsSold": 334
+ },
+ {
+  "PLU": 9207,
+  "Item": "Cheese Hot Dogs",
+  "Price": "4.45",
+  "CutType": "Hot Dogs",
+  "PoundsSold": 546.5
+ },
+ {
+  "PLU": 9209,
+  "Item": "Dogs (8-1#)",
+  "Price": "2.95",
+  "CutType": "Hot Dogs",
+  "PoundsSold": 311.5
+ },
+ {
+  "PLU": 9210,
+  "Item": "Beef and Pork Cheese Dogs",
+  "Price": "3.45",
+  "CutType": "Hot Dogs",
+  "PoundsSold": 328.5
+ },
+ {
+  "PLU": 9211,
+  "Item": "Hot Dogs - Natural Casing",
+  "Price": "2.95",
+  "CutType": "Hot Dogs",
+  "PoundsSold": 281
+ }
+]

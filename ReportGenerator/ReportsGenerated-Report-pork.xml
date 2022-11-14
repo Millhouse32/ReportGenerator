@@ -1,0 +1,556 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root type="array">
+  <item type="object">
+    <PLU type="number">184</PLU>
+    <Item type="string">Shoulder Butt</Item>
+    <Price type="string">1.99</Price>
+    <CutType type="string">Pork Butts</CutType>
+    <PoundsSold type="number">143.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">185</PLU>
+    <Item type="string">Shoulder Blade Steaks</Item>
+    <Price type="string">2.49</Price>
+    <CutType type="string">Pork Cuts and Roasts</CutType>
+    <PoundsSold type="number">168</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">195</PLU>
+    <Item type="string">Pork Loin - Whole</Item>
+    <Price type="string">2.49</Price>
+    <CutType type="string">Pork Cuts and Roasts</CutType>
+    <PoundsSold type="number">275</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">196</PLU>
+    <Item type="string">Rib End Pork Roast</Item>
+    <Price type="string">1.99</Price>
+    <CutType type="string">Pork Cuts and Roasts</CutType>
+    <PoundsSold type="number">539.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">197</PLU>
+    <Item type="string">Baby Back Ribs</Item>
+    <Price type="string">3.59</Price>
+    <CutType type="string">Pork Ribs</CutType>
+    <PoundsSold type="number">474.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">198</PLU>
+    <Item type="string">Western Ribs</Item>
+    <Price type="string">2.99</Price>
+    <CutType type="string">Pork Ribs</CutType>
+    <PoundsSold type="number">212.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">199</PLU>
+    <Item type="string">Salt and Pepper (5# 2.85) (10# 2.75)</Item>
+    <Price type="string">2.95</Price>
+    <CutType type="string">Pork Bulk Sausage</CutType>
+    <PoundsSold type="number">417</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">201</PLU>
+    <Item type="string">Fresh Side Strips</Item>
+    <Price type="string">7.35</Price>
+    <CutType type="string">Pork Sides</CutType>
+    <PoundsSold type="number">64.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">202</PLU>
+    <Item type="string">Fresh Side - Whole with Skin</Item>
+    <Price type="string">5.45</Price>
+    <CutType type="string">Fresh Side</CutType>
+    <PoundsSold type="number">235.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">203</PLU>
+    <Item type="string">Fresh Side - 1/2 with Skin</Item>
+    <Price type="string">5.95</Price>
+    <CutType type="string">Fresh Side</CutType>
+    <PoundsSold type="number">235.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">205</PLU>
+    <Item type="string">Boneless Pork Chops</Item>
+    <Price type="string">4.45</Price>
+    <CutType type="string">Pork Chops</CutType>
+    <PoundsSold type="number">500</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">207</PLU>
+    <Item type="string">Fresh Ham</Item>
+    <Price type="string">2.39</Price>
+    <CutType type="string">Fresh Ham</CutType>
+    <PoundsSold type="number">600.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">208</PLU>
+    <Item type="string">Fresh Ham 1/2</Item>
+    <Price type="string">2.39</Price>
+    <CutType type="string">Fresh Ham</CutType>
+    <PoundsSold type="number">600.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">210</PLU>
+    <Item type="string">City Chicken</Item>
+    <Price type="string">5.39</Price>
+    <CutType type="string">Fresh Pork Cuts and Roasts</CutType>
+    <PoundsSold type="number">48.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">214</PLU>
+    <Item type="string">Picnic Ham (smoked)</Item>
+    <Price type="string">2.39</Price>
+    <CutType type="string">Smoked Ham</CutType>
+    <PoundsSold type="number">475.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">215</PLU>
+    <Item type="string">Center Cut Prok Chops</Item>
+    <Price type="string">3.49</Price>
+    <CutType type="string">Pork Chops</CutType>
+    <PoundsSold type="number">320.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">216</PLU>
+    <Item type="string">Marinated Pork Chops</Item>
+    <Price type="string">3.89</Price>
+    <CutType type="string">Pork Chops</CutType>
+    <PoundsSold type="number">78</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">217</PLU>
+    <Item type="string">Porterhouse Chops</Item>
+    <Price type="string">3.49</Price>
+    <CutType type="string">Pork Chops</CutType>
+    <PoundsSold type="number">112</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">218</PLU>
+    <Item type="string">French Rib Chops</Item>
+    <Price type="string">4.89</Price>
+    <CutType type="string">Pork Chops</CutType>
+    <PoundsSold type="number">93</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">220</PLU>
+    <Item type="string">Spare Ribs</Item>
+    <Price type="string">2.49</Price>
+    <CutType type="string">Pork Ribs</CutType>
+    <PoundsSold type="number">585.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">221</PLU>
+    <Item type="string">Boneless Pork Loin</Item>
+    <Price type="string">3.99</Price>
+    <CutType type="string">Pork Chops</CutType>
+    <PoundsSold type="number">45.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">223</PLU>
+    <Item type="string">Stuffed Pork Chops</Item>
+    <Price type="string">4.95</Price>
+    <CutType type="string">Pork Chops</CutType>
+    <PoundsSold type="number">320.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">226</PLU>
+    <Item type="string">Smoked Pork Chops</Item>
+    <Price type="string">4.95</Price>
+    <CutType type="string">Pork Chops</CutType>
+    <PoundsSold type="number">214.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">227</PLU>
+    <Item type="string">Ham Slices</Item>
+    <Price type="string">3.89</Price>
+    <CutType type="string">Smoked Ham</CutType>
+    <PoundsSold type="number">418.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">228</PLU>
+    <Item type="string">Jowls</Item>
+    <Price type="string">2.49</Price>
+    <CutType type="string">Smoked Ham</CutType>
+    <PoundsSold type="number">490.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">239</PLU>
+    <Item type="string">Italian (5# 2.85) (10# 2.75)</Item>
+    <Price type="string">2.95</Price>
+    <CutType type="string">Pork Bulk Sausage</CutType>
+    <PoundsSold type="number">110.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">240</PLU>
+    <Item type="string">Country(5# 2.85) (10# 2.75)</Item>
+    <Price type="string">2.95</Price>
+    <CutType type="string">Pork Bulk Sausage</CutType>
+    <PoundsSold type="number">544.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">241</PLU>
+    <Item type="string">Sweet Italian</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Fresh Pork Sausage Links</CutType>
+    <PoundsSold type="number">343.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">242</PLU>
+    <Item type="string">Mild Hungarian</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Fresh Pork Sausage Links</CutType>
+    <PoundsSold type="number">491.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">243</PLU>
+    <Item type="string">Hot Hungarian</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Fresh Pork Sausage Links</CutType>
+    <PoundsSold type="number">437.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">244</PLU>
+    <Item type="string">Maple (5# 2.85)( 10# 2.75)</Item>
+    <Price type="string">2.95</Price>
+    <CutType type="string">Pork Bulk Sausage</CutType>
+    <PoundsSold type="number">43</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">245</PLU>
+    <Item type="string">Fresh Ground Pork</Item>
+    <Price type="string">2.49</Price>
+    <CutType type="string">Pork Bulk Sausage</CutType>
+    <PoundsSold type="number">430.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">248</PLU>
+    <Item type="string">Hot Mexican Chorizo</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Fresh Pork Sausage Links</CutType>
+    <PoundsSold type="number">301</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">250</PLU>
+    <Item type="string">Baby Links</Item>
+    <Price type="string">4.89</Price>
+    <CutType type="string">Fresh Pork Sausage Links</CutType>
+    <PoundsSold type="number">531.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">255</PLU>
+    <Item type="string">Pepper And Onion</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Fresh Pork Sausage Links</CutType>
+    <PoundsSold type="number">313.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">261</PLU>
+    <Item type="string">Bratwurst</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Fresh Pork Sausage Links</CutType>
+    <PoundsSold type="number">304.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">283</PLU>
+    <Item type="string">Canadian Bacon</Item>
+    <Price type="string">6.95</Price>
+    <CutType type="string">Bacon</CutType>
+    <PoundsSold type="number">489</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">286</PLU>
+    <Item type="string">Bacon - smoked</Item>
+    <Price type="string">7.95</Price>
+    <CutType type="string">Bacon</CutType>
+    <PoundsSold type="number">341.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">287</PLU>
+    <Item type="string">Bacon Ends</Item>
+    <Price type="string">2.89</Price>
+    <CutType type="string">Bacon</CutType>
+    <PoundsSold type="number">574.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">288</PLU>
+    <Item type="string">Slab Bacon</Item>
+    <Price type="string">6.95</Price>
+    <CutType type="string">Bacon</CutType>
+    <PoundsSold type="number">453.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">291</PLU>
+    <Item type="string">Ham (semi boneless)</Item>
+    <Price type="string">2.69</Price>
+    <CutType type="string">Smoked Ham</CutType>
+    <PoundsSold type="number">205.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">292</PLU>
+    <Item type="string">Spiral Honey Ham</Item>
+    <Price type="string">4.95</Price>
+    <CutType type="string">Smoked Ham</CutType>
+    <PoundsSold type="number">80.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">293</PLU>
+    <Item type="string">Ham Baby</Item>
+    <Price type="string">4.95</Price>
+    <CutType type="string">Smoked Ham</CutType>
+    <PoundsSold type="number">530.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">508</PLU>
+    <Item type="string">Mild Hungarian</Item>
+    <Price type="string">4.49</Price>
+    <CutType type="string">Smoked Sausage</CutType>
+    <PoundsSold type="number">102.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">601</PLU>
+    <Item type="string">Polish</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Smoked Sausage</CutType>
+    <PoundsSold type="number">468.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">701</PLU>
+    <Item type="string">Hot Hungarian</Item>
+    <Price type="string">4.49</Price>
+    <CutType type="string">Smoked Sausage</CutType>
+    <PoundsSold type="number">441.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">801</PLU>
+    <Item type="string">Ham Hocks (smoked)</Item>
+    <Price type="string">2.39</Price>
+    <CutType type="string">Smoked Ham</CutType>
+    <PoundsSold type="number">405.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1842</PLU>
+    <Item type="string">Shoulder Butt - 50# or more</Item>
+    <Price type="string">1.99</Price>
+    <CutType type="string">Pork Butts</CutType>
+    <PoundsSold type="number">50.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1961</PLU>
+    <Item type="string">Pork Loin Crown Roast</Item>
+    <Price type="string">5.39</Price>
+    <CutType type="string">Pork Cuts and Roasts</CutType>
+    <PoundsSold type="number">591</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1971</PLU>
+    <Item type="string">Baby Back Ribs - 3 Slabs or More</Item>
+    <Price type="string">3.49</Price>
+    <CutType type="string">Pork Ribs</CutType>
+    <PoundsSold type="number">416.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1981</PLU>
+    <Item type="string">Western Ribs-Boneless</Item>
+    <Price type="string">3.39</Price>
+    <CutType type="string">Pork Ribs</CutType>
+    <PoundsSold type="number">462.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2031</PLU>
+    <Item type="string">Fresh Side - Sliced</Item>
+    <Price type="string">7.35</Price>
+    <CutType type="string">Fresh Side</CutType>
+    <PoundsSold type="number">48.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2077</PLU>
+    <Item type="string">Fresh Ham (Boneless)</Item>
+    <Price type="string">2.89</Price>
+    <CutType type="string">Fresh Ham</CutType>
+    <PoundsSold type="number">300.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2141</PLU>
+    <Item type="string">Fresh Picnic Ham</Item>
+    <Price type="string">1.89</Price>
+    <CutType type="string">Fresh Ham</CutType>
+    <PoundsSold type="number">235.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2151</PLU>
+    <Item type="string">Center Cut Pork Roast</Item>
+    <Price type="string">3.89</Price>
+    <CutType type="string">Pork Chops</CutType>
+    <PoundsSold type="number">67.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2199</PLU>
+    <Item type="string">Sirloin Roast</Item>
+    <Price type="string">3.49</Price>
+    <CutType type="string">Pork Cuts and Roasts</CutType>
+    <PoundsSold type="number">318.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2201</PLU>
+    <Item type="string">Spare Ribs - 3 Slabs or More</Item>
+    <Price type="string">2.39</Price>
+    <CutType type="string">Pork Ribs</CutType>
+    <PoundsSold type="number">327</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2202</PLU>
+    <Item type="string">Spare Ribs - 30# Case</Item>
+    <Price type="string">2.29</Price>
+    <CutType type="string">Pork Ribs</CutType>
+    <PoundsSold type="number">564.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2211</PLU>
+    <Item type="string">Pencil Tenderloin - Filet</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Fresh Pork Cuts and Roasts</CutType>
+    <PoundsSold type="number">300.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2281</PLU>
+    <Item type="string">Jowls (sliced)</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Smoked Ham</CutType>
+    <PoundsSold type="number">420.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2401</PLU>
+    <Item type="string">5# or More Fresh Ground Pork</Item>
+    <Price type="string">2.49</Price>
+    <CutType type="string">Pork Bulk Sausage</CutType>
+    <PoundsSold type="number">125.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2402</PLU>
+    <Item type="string">10# or more Fresh Ground Pork</Item>
+    <Price type="string">2.49</Price>
+    <CutType type="string">Pork Bulk Sausage</CutType>
+    <PoundsSold type="number">234.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2416</PLU>
+    <Item type="string">Italian</Item>
+    <Price type="string">4.49</Price>
+    <CutType type="string">Smoked Sausage</CutType>
+    <PoundsSold type="number">197.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2501</PLU>
+    <Item type="string">Slovenian</Item>
+    <Price type="string">4.49</Price>
+    <CutType type="string">Smoked Sausage</CutType>
+    <PoundsSold type="number">58.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2502</PLU>
+    <Item type="string">Jalapeno</Item>
+    <Price type="string">4.49</Price>
+    <CutType type="string">Smoked Sausage</CutType>
+    <PoundsSold type="number">267.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2552</PLU>
+    <Item type="string">Pepper and Onion</Item>
+    <Price type="string">4.49</Price>
+    <CutType type="string">Smoked Sausage</CutType>
+    <PoundsSold type="number">423</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2604</PLU>
+    <Item type="string">Beef Keiasi</Item>
+    <Price type="string">4.99</Price>
+    <CutType type="string">Smoked Sausage</CutType>
+    <PoundsSold type="number">310.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2610</PLU>
+    <Item type="string">Hawaiian Brats</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Fresh Pork Sausage Links</CutType>
+    <PoundsSold type="number">596.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2613</PLU>
+    <Item type="string">Cheddar Brats</Item>
+    <Price type="string">4.49</Price>
+    <CutType type="string">Smoked Sausage</CutType>
+    <PoundsSold type="number">138.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">3241</PLU>
+    <Item type="string">Ham (boneless) (95% fat free)</Item>
+    <Price type="string">5.95</Price>
+    <CutType type="string">Smoked Ham</CutType>
+    <PoundsSold type="number">70.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">6011</PLU>
+    <Item type="string">Fresh Polish Kieasa</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Fresh Pork Sausage Links</CutType>
+    <PoundsSold type="number">84.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">8569</PLU>
+    <Item type="string">1/2 Hog</Item>
+    <Price type="string">2.69</Price>
+    <CutType type="string">Freezer Hogs</CutType>
+    <PoundsSold type="number">402.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">9124</PLU>
+    <Item type="string">Sausage Patties</Item>
+    <Price type="string">3.89</Price>
+    <CutType type="string">Fresh Pork Sausage Links</CutType>
+    <PoundsSold type="number">582</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">9203</PLU>
+    <Item type="string">Garlic Knockwurst</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Smoked Ham</CutType>
+    <PoundsSold type="number">294.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">9206</PLU>
+    <Item type="string">Dogs (4-1#)</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Hot Dogs</CutType>
+    <PoundsSold type="number">334</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">9207</PLU>
+    <Item type="string">Cheese Hot Dogs</Item>
+    <Price type="string">4.45</Price>
+    <CutType type="string">Hot Dogs</CutType>
+    <PoundsSold type="number">546.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">9209</PLU>
+    <Item type="string">Dogs (8-1#)</Item>
+    <Price type="string">2.95</Price>
+    <CutType type="string">Hot Dogs</CutType>
+    <PoundsSold type="number">311.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">9210</PLU>
+    <Item type="string">Beef and Pork Cheese Dogs</Item>
+    <Price type="string">3.45</Price>
+    <CutType type="string">Hot Dogs</CutType>
+    <PoundsSold type="number">328.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">9211</PLU>
+    <Item type="string">Hot Dogs - Natural Casing</Item>
+    <Price type="string">2.95</Price>
+    <CutType type="string">Hot Dogs</CutType>
+    <PoundsSold type="number">281</PoundsSold>
+  </item>
+</root>
