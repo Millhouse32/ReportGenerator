@@ -19,18 +19,6 @@ namespace ReportGenerator
 
             Server.MessageReceived += new EventHandler<string>(HandleMessageReceived);
 
-            //ToXML.ConvertToXML(Program.data, "email", filepath);
-
-            //ToCSV.ConvertToCSV(data, "email", filepath);
-
-            //ToXLSX.ConvertToXLSX(data, "email", filepath);
-
-            //ToXLSM.ConvertToXLSM(data, "email", filepath);
-
-            //ToJSON.ConvertToJSON(data, "email", filepath);
-
-            //ToXLT.ConvertToXLT(data, "email", filepath);
-
             Console.ReadLine();
         }
 
@@ -39,12 +27,15 @@ namespace ReportGenerator
 
             if (args.IndexOf("filename") != -1)
             {
+                filename = "Generated-Report-";
                 int length = (args.Length - 3) - args.IndexOf(":") + 1;
                 filename += args.Substring(args.IndexOf(":") + 1, length);
             }
 
             else
             {
+                Console.WriteLine(args);
+
                 Thread xmlThread = new Thread(() => ToXML.ConvertToXML(args, filename, filepath));
                 xmlThread.Start();
 

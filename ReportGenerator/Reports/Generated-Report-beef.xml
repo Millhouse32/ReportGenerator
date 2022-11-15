@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root type="array">
+  <item type="object">
+    <PLU type="number">1</PLU>
+    <Item type="string">Brisket (Trimmed)</Item>
+    <Price type="string">8.95</Price>
+    <CutType type="string">Briskets</CutType>
+    <PoundsSold type="number">135</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">10</PLU>
+    <Item type="string">English Roast (Boneless)</Item>
+    <Price type="string">6.95</Price>
+    <CutType type="string">Beef Roasts</CutType>
+    <PoundsSold type="number">55.7</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">11</PLU>
+    <Item type="string">Chuck Blade Roasts</Item>
+    <Price type="string">6.65</Price>
+    <CutType type="string">Beef Roasts</CutType>
+    <PoundsSold type="number">777</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">12</PLU>
+    <Item type="string">English Roast (Bone-In)</Item>
+    <Price type="string">5.95</Price>
+    <CutType type="string">Beef Roasts</CutType>
+    <PoundsSold type="number">542.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">14</PLU>
+    <Item type="string">Top Round (18-22#)</Item>
+    <Price type="string">5.95</Price>
+    <CutType type="string">Whole Beef Primals</CutType>
+    <PoundsSold type="number">42.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">33</PLU>
+    <Item type="string">Corned Beef Brisket</Item>
+    <Price type="string">8.95</Price>
+    <CutType type="string">Briskets</CutType>
+    <PoundsSold type="number">62.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">48</PLU>
+    <Item type="string">Strip Steak</Item>
+    <Price type="string">13.95</Price>
+    <CutType type="string">Beef Steaks</CutType>
+    <PoundsSold type="number">340.7</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">49</PLU>
+    <Item type="string">T-Bone Steak</Item>
+    <Price type="string">10.95</Price>
+    <CutType type="string">Beef Steaks</CutType>
+    <PoundsSold type="number">340.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">65</PLU>
+    <Item type="string">London Broil</Item>
+    <Price type="string">7.95</Price>
+    <CutType type="string">Beef Roasts</CutType>
+    <PoundsSold type="number">300.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">66</PLU>
+    <Item type="string">Tenderloin (Whole 6-7#)</Item>
+    <Price type="string">15.95</Price>
+    <CutType type="string">Whole Beef Primals</CutType>
+    <PoundsSold type="number">162.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">67</PLU>
+    <Item type="string">Porterhouse Stek</Item>
+    <Price type="string">11.95</Price>
+    <CutType type="string">Beef Steaks</CutType>
+    <PoundsSold type="number">323</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">68</PLU>
+    <Item type="string">Sirloin Steak </Item>
+    <Price type="string">9.95</Price>
+    <CutType type="string">Beef Steaks</CutType>
+    <PoundsSold type="number">317.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">69</PLU>
+    <Item type="string">Top Sirloins (Whole 5-6#)</Item>
+    <Price type="string">8.95</Price>
+    <CutType type="string">Whole Beef Primals</CutType>
+    <PoundsSold type="number">565.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">70</PLU>
+    <Item type="string">Short Loin (P-House/T-Bones) (18-22#)</Item>
+    <Price type="string">8.95</Price>
+    <CutType type="string">Whole Beef Primals</CutType>
+    <PoundsSold type="number">85.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">81</PLU>
+    <Item type="string">Chipped Steaks</Item>
+    <Price type="string">9.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">376.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">82</PLU>
+    <Item type="string">Prime Rib Roast Rib Eye (Bone In) (16-18#)</Item>
+    <Price type="string">10.95</Price>
+    <CutType type="string">Whole Beef Primals</CutType>
+    <PoundsSold type="number">173.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">94</PLU>
+    <Item type="string">Tomahawk Steak</Item>
+    <Price type="string">12.95</Price>
+    <CutType type="string">Beef Steaks</CutType>
+    <PoundsSold type="number">122.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">95</PLU>
+    <Item type="string">Ribeye Steak</Item>
+    <Price type="string">11.95</Price>
+    <CutType type="string">Beef Steaks</CutType>
+    <PoundsSold type="number">432.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">96</PLU>
+    <Item type="string">Delmonico Steak</Item>
+    <Price type="string">13.95</Price>
+    <CutType type="string">Beef Steaks</CutType>
+    <PoundsSold type="number">57.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">106</PLU>
+    <Item type="string">Eye of Round</Item>
+    <Price type="string">6.95</Price>
+    <CutType type="string">Beef Roasts</CutType>
+    <PoundsSold type="number">149.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">107</PLU>
+    <Item type="string">Rump Roast</Item>
+    <Price type="string">6.95</Price>
+    <CutType type="string">Beef Roasts</CutType>
+    <PoundsSold type="number">154.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">108</PLU>
+    <Item type="string">Round Steak</Item>
+    <Price type="string">7.95</Price>
+    <CutType type="string">Beef Roasts</CutType>
+    <PoundsSold type="number">254.6</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">109</PLU>
+    <Item type="string">Sirloin Tip Roast</Item>
+    <Price type="string">6.95</Price>
+    <CutType type="string">Beef Roasts</CutType>
+    <PoundsSold type="number">321.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">111</PLU>
+    <Item type="string">Brisket (Untrimmed)</Item>
+    <Price type="string">6.49</Price>
+    <CutType type="string">Briskets</CutType>
+    <PoundsSold type="number">352.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">123</PLU>
+    <Item type="string">Chuck Roast (Boneless)</Item>
+    <Price type="string">5.95</Price>
+    <CutType type="string">Beef Roasts</CutType>
+    <PoundsSold type="number">549.6</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">124</PLU>
+    <Item type="string">Beef Tenderloin (Filets)</Item>
+    <Price type="string">22.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">479.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">141</PLU>
+    <Item type="string">Ground Chuck</Item>
+    <Price type="string">4.95</Price>
+    <CutType type="string">Ground Chuck</CutType>
+    <PoundsSold type="number">475.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">142</PLU>
+    <Item type="string">Ground Round</Item>
+    <Price type="string">5.95</Price>
+    <CutType type="string">Ground Round</CutType>
+    <PoundsSold type="number">180.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">143</PLU>
+    <Item type="string">Chuck Patties (Frozen)</Item>
+    <Price type="string">24.75</Price>
+    <CutType type="string">Beef Patties</CutType>
+    <PoundsSold type="number">479</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">144</PLU>
+    <Item type="string">Ground Sirloin</Item>
+    <Price type="string">7.25</Price>
+    <CutType type="string">Ground Round</CutType>
+    <PoundsSold type="number">242</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">147</PLU>
+    <Item type="string">Sirloin Patties</Item>
+    <Price type="string">5.95</Price>
+    <CutType type="string">Beef Patties</CutType>
+    <PoundsSold type="number">145.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">154</PLU>
+    <Item type="string">Burgundy Marinated Steaks</Item>
+    <Price type="string">9.95</Price>
+    <CutType type="string">Beef Steaks</CutType>
+    <PoundsSold type="number">208.6</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">169</PLU>
+    <Item type="string">Brisket Burgers</Item>
+    <Price type="string">6.95</Price>
+    <CutType type="string">Beef Patties</CutType>
+    <PoundsSold type="number">192.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">362</PLU>
+    <Item type="string">Stew Meat</Item>
+    <Price type="string">9.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">444</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">370</PLU>
+    <Item type="string">Liver</Item>
+    <Price type="string">4.99</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">125.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">488</PLU>
+    <Item type="string">Strip Loin (Whole 11-13#)</Item>
+    <Price type="string">9.95</Price>
+    <CutType type="string">Whole Beef Primals</CutType>
+    <PoundsSold type="number">116.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">491</PLU>
+    <Item type="string">T-Bone</Item>
+    <Price type="string">14.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">100.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">494</PLU>
+    <Item type="string">Boneless English Roast</Item>
+    <Price type="string">9.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">398.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">650</PLU>
+    <Item type="string">Short Ribs</Item>
+    <Price type="string">9.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">338.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">651</PLU>
+    <Item type="string">Flank Steak</Item>
+    <Price type="string">11.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">390.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">652</PLU>
+    <Item type="string">Soup Bones</Item>
+    <Price type="string">3.99</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">454.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">653</PLU>
+    <Item type="string">Shank (Bone-In)</Item>
+    <Price type="string">6.49</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">420.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">654</PLU>
+    <Item type="string">Back Ribs</Item>
+    <Price type="string">8.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">300.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">661</PLU>
+    <Item type="string">Tenderloin (Individual)</Item>
+    <Price type="string">23.95</Price>
+    <CutType type="string">Beef Steaks</CutType>
+    <PoundsSold type="number">419.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">671</PLU>
+    <Item type="string">Porterhouse</Item>
+    <Price type="string">15.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">113.6</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">673</PLU>
+    <Item type="string">Blade Roast</Item>
+    <Price type="string">7.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">427.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">674</PLU>
+    <Item type="string">Ribeye</Item>
+    <Price type="string">15.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">213.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">676</PLU>
+    <Item type="string">Rump Roast</Item>
+    <Price type="string">9.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">446.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">682</PLU>
+    <Item type="string">Sirloin Steak</Item>
+    <Price type="string">11.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">330</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">961</PLU>
+    <Item type="string">Delmonico Whole (14-16#)</Item>
+    <Price type="string">12.95</Price>
+    <CutType type="string">Whole Beef Primals</CutType>
+    <PoundsSold type="number">413.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1082</PLU>
+    <Item type="string">Round Steak</Item>
+    <Price type="string">8.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">386.6</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1091</PLU>
+    <Item type="string">Tri Tip</Item>
+    <Price type="string">8.95</Price>
+    <CutType type="string">Beef Roasts</CutType>
+    <PoundsSold type="number">405.7</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1143</PLU>
+    <Item type="string">Chuck Patties (Fresh)</Item>
+    <Price type="string">5.49</Price>
+    <CutType type="string">Beef Patties</CutType>
+    <PoundsSold type="number">255.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1411</PLU>
+    <Item type="string">Ground Chuck -5# or More</Item>
+    <Price type="string">4.85</Price>
+    <CutType type="string">Ground Chuck</CutType>
+    <PoundsSold type="number">635.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1412</PLU>
+    <Item type="string">Ground Chuck -10# or More</Item>
+    <Price type="string">4.75</Price>
+    <CutType type="string">Ground Chuck</CutType>
+    <PoundsSold type="number">475.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1413</PLU>
+    <Item type="string">Ground Chuck - 20# or More</Item>
+    <Price type="string">4.65</Price>
+    <CutType type="string">Ground Chuck</CutType>
+    <PoundsSold type="number">350.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1414</PLU>
+    <Item type="string">Ground Chuck - 50# or More</Item>
+    <Price type="string">4.65</Price>
+    <CutType type="string">Ground Chuck</CutType>
+    <PoundsSold type="number">358.7</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1422</PLU>
+    <Item type="string">Ground Round - 5# or more</Item>
+    <Price type="string">5.85</Price>
+    <CutType type="string">Ground Round</CutType>
+    <PoundsSold type="number">172.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1423</PLU>
+    <Item type="string">Ground Round - 10# or more</Item>
+    <Price type="string">5.75</Price>
+    <CutType type="string">Ground Round</CutType>
+    <PoundsSold type="number">394</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1431</PLU>
+    <Item type="string">Ground Chuck -2# Frozen Pack</Item>
+    <Price type="string">7.95</Price>
+    <CutType type="string">Ground Chuck</CutType>
+    <PoundsSold type="number">211.6</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1432</PLU>
+    <Item type="string">Bulk (Ground Beef)</Item>
+    <Price type="string">7.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">1348.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1434</PLU>
+    <Item type="string">Seasoned Patties</Item>
+    <Price type="string">24.75</Price>
+    <CutType type="string">Beef Patties</CutType>
+    <PoundsSold type="number">176.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1439</PLU>
+    <Item type="string">Patties</Item>
+    <Price type="string">8.95</Price>
+    <CutType type="string">Grass Fed Beef</CutType>
+    <PoundsSold type="number">326.3</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">1552</PLU>
+    <Item type="string">Burgundy Marinated Filets</Item>
+    <Price type="string">11.95</Price>
+    <CutType type="string">Beef Steaks</CutType>
+    <PoundsSold type="number">180.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2434</PLU>
+    <Item type="string">6 oz. Seasoned Patties</Item>
+    <Price type="string">5.49</Price>
+    <CutType type="string">Beef Patties</CutType>
+    <PoundsSold type="number">298</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">4446</PLU>
+    <Item type="string">Hind Quarter Grass Fed</Item>
+    <Price type="string">4.69</Price>
+    <CutType type="string">Sides and Hindquarters</CutType>
+    <PoundsSold type="number">2295.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">4545</PLU>
+    <Item type="string">Half Grass Fed</Item>
+    <Price type="string">3.99</Price>
+    <CutType type="string">Sides and Hindquarters</CutType>
+    <PoundsSold type="number">2011.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">8566</PLU>
+    <Item type="string">Half Beef (300-400lb.)</Item>
+    <Price type="string">3.69</Price>
+    <CutType type="string">Sides and Hindquarters</CutType>
+    <PoundsSold type="number">1541.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">8567</PLU>
+    <Item type="string">Hind Quarter (200-200lb.)</Item>
+    <Price type="string">4.39</Price>
+    <CutType type="string">Sides and Hindquarters</CutType>
+    <PoundsSold type="number">1841.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">123456</PLU>
+    <Item type="string">test</Item>
+    <Price type="string">5.55</Price>
+    <CutType type="string">testtype</CutType>
+    <PoundsSold type="number">0</PoundsSold>
+  </item>
+</root>

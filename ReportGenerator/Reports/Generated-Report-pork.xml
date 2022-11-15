@@ -5,7 +5,7 @@
     <Item type="string">Shoulder Butt</Item>
     <Price type="string">1.99</Price>
     <CutType type="string">Pork Butts</CutType>
-    <PoundsSold type="number">143.3</PoundsSold>
+    <PoundsSold type="number">145</PoundsSold>
   </item>
   <item type="object">
     <PLU type="number">185</PLU>
