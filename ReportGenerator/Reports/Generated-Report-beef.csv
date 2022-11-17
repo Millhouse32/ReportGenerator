@@ -1,0 +1,72 @@
+PLU,Item,Price,CutType,PoundsSold
+1,Brisket (Trimmed),8.95,Briskets,135
+10,English Roast (Boneless),6.95,Beef Roasts,55.7
+11,Chuck Blade Roasts,6.65,Beef Roasts,777
+12,English Roast (Bone-In),5.95,Beef Roasts,542.8
+14,Top Round (18-22#),5.95,Whole Beef Primals,42.1
+33,Corned Beef Brisket,8.95,Briskets,62.8
+48,Strip Steak,13.95,Beef Steaks,340.7
+49,T-Bone Steak,10.95,Beef Steaks,340.3
+65,London Broil,7.95,Beef Roasts,300.4
+66,Tenderloin (Whole 6-7#),15.95,Whole Beef Primals,162.2
+67,Porterhouse Stek,11.95,Beef Steaks,323
+68,Sirloin Steak ,9.95,Beef Steaks,317.4
+69,Top Sirloins (Whole 5-6#),8.95,Whole Beef Primals,565.9
+70,Short Loin (P-House/T-Bones) (18-22#),8.95,Whole Beef Primals,85.5
+81,Chipped Steaks,9.95,Grass Fed Beef,376.5
+82,Prime Rib Roast Rib Eye (Bone In) (16-18#),10.95,Whole Beef Primals,173.5
+94,Tomahawk Steak,12.95,Beef Steaks,122.9
+95,Ribeye Steak,11.95,Beef Steaks,432.5
+96,Delmonico Steak,13.95,Beef Steaks,57.2
+106,Eye of Round,6.95,Beef Roasts,149.4
+107,Rump Roast,6.95,Beef Roasts,154.2
+108,Round Steak,7.95,Beef Roasts,254.6
+109,Sirloin Tip Roast,6.95,Beef Roasts,321.8
+111,Brisket (Untrimmed),6.49,Briskets,352.3
+123,Chuck Roast (Boneless),5.95,Beef Roasts,549.6
+124,Beef Tenderloin (Filets),22.95,Grass Fed Beef,479.5
+141,Ground Chuck,4.95,Ground Chuck,475.8
+142,Ground Round,5.95,Ground Round,180.9
+143,Chuck Patties (Frozen),24.75,Beef Patties,479
+144,Ground Sirloin,7.25,Ground Round,242
+147,Sirloin Patties,5.95,Beef Patties,145.9
+154,Burgundy Marinated Steaks,9.95,Beef Steaks,208.6
+169,Brisket Burgers,6.95,Beef Patties,192.3
+362,Stew Meat,9.95,Grass Fed Beef,444
+370,Liver,4.99,Grass Fed Beef,125.3
+488,Strip Loin (Whole 11-13#),9.95,Whole Beef Primals,116.9
+491,T-Bone,14.95,Grass Fed Beef,100.8
+494,Boneless English Roast,9.95,Grass Fed Beef,398.5
+650,Short Ribs,9.95,Grass Fed Beef,338.9
+651,Flank Steak,11.95,Grass Fed Beef,390.1
+652,Soup Bones,3.99,Grass Fed Beef,454.2
+653,Shank (Bone-In),6.49,Grass Fed Beef,420.3
+654,Back Ribs,8.95,Grass Fed Beef,300.5
+661,Tenderloin (Individual),23.95,Beef Steaks,419.9
+671,Porterhouse,15.95,Grass Fed Beef,113.6
+673,Blade Roast,7.95,Grass Fed Beef,427.1
+674,Ribeye,15.95,Grass Fed Beef,213.2
+676,Rump Roast,9.95,Grass Fed Beef,446.9
+682,Sirloin Steak,11.95,Grass Fed Beef,330
+961,Delmonico Whole (14-16#),12.95,Whole Beef Primals,413.8
+1082,Round Steak,8.95,Grass Fed Beef,386.6
+1091,Tri Tip,8.95,Beef Roasts,405.7
+1143,Chuck Patties (Fresh),5.49,Beef Patties,255.9
+1411,Ground Chuck -5# or More,4.85,Ground Chuck,635.2
+1412,Ground Chuck -10# or More,4.75,Ground Chuck,475.8
+1413,Ground Chuck - 20# or More,4.65,Ground Chuck,350.5
+1414,Ground Chuck - 50# or More,4.65,Ground Chuck,358.7
+1422,Ground Round - 5# or more,5.85,Ground Round,172.3
+1423,Ground Round - 10# or more,5.75,Ground Round,394
+1431,Ground Chuck -2# Frozen Pack,7.95,Ground Chuck,211.6
+1432,Bulk (Ground Beef),7.95,Grass Fed Beef,1348.4
+1434,Seasoned Patties,24.75,Beef Patties,176.1
+1439,Patties,8.95,Grass Fed Beef,326.3
+1552,Burgundy Marinated Filets,11.95,Beef Steaks,180.8
+2434,6 oz. Seasoned Patties,5.49,Beef Patties,298
+4446,Hind Quarter Grass Fed,4.69,Sides and Hindquarters,2295.5
+4545,Half Grass Fed,3.99,Sides and Hindquarters,2011.4
+8566,Half Beef (300-400lb.),3.69,Sides and Hindquarters,1541.1
+8567,Hind Quarter (200-200lb.),4.39,Sides and Hindquarters,1841.1
+123456,test,5.55,testtype,0
+Evaluation Only. Created with Aspose.Cells for .NET.Copyright 2003 - 2022 Aspose Pty Ltd.

@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root type="array">
+  <item type="object">
+    <PLU type="number">500</PLU>
+    <Item type="string">Boneless Breast</Item>
+    <Price type="string">4.95</Price>
+    <CutType type="string">Chicken Breast</CutType>
+    <PoundsSold type="number">3000.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">501</PLU>
+    <Item type="string">10# or more</Item>
+    <Price type="string">4.45</Price>
+    <CutType type="string">Chicken Breast</CutType>
+    <PoundsSold type="number">145</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">502</PLU>
+    <Item type="string">8-pc Cut-up Fryer</Item>
+    <Price type="string">2.99</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">631.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">504</PLU>
+    <Item type="string">Drumsticks</Item>
+    <Price type="string">2.39</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">387.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">506</PLU>
+    <Item type="string">Whole Fryer</Item>
+    <Price type="string">1.99</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">652.6</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">512</PLU>
+    <Item type="string">Breast - Boneless Stuffed</Item>
+    <Price type="string">5.99</Price>
+    <CutType type="string">Chicken Breast</CutType>
+    <PoundsSold type="number">431</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">513</PLU>
+    <Item type="string">Wings</Item>
+    <Price type="string">3.19</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">641.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2413</PLU>
+    <Item type="string">Italian</Item>
+    <Price type="string">3.89</Price>
+    <CutType type="string">Chicken Sausage</CutType>
+    <PoundsSold type="number">186.6</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2565</PLU>
+    <Item type="string">Buffalo</Item>
+    <Price type="string">3.89</Price>
+    <CutType type="string">Chicken Sausage</CutType>
+    <PoundsSold type="number">224.9</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">2566</PLU>
+    <Item type="string">Apple Maple</Item>
+    <Price type="string">3.89</Price>
+    <CutType type="string">Chicken Sausage</CutType>
+    <PoundsSold type="number">254.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5011</PLU>
+    <Item type="string">Thin Chicken Breast</Item>
+    <Price type="string">5.95</Price>
+    <CutType type="string">Chicken Breast</CutType>
+    <PoundsSold type="number">259.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5014</PLU>
+    <Item type="string">Thighs</Item>
+    <Price type="string">2.49</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">297.8</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5015</PLU>
+    <Item type="string">Thighs - Boneless</Item>
+    <Price type="string">2.89</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">609.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5023</PLU>
+    <Item type="string">Split Fryer</Item>
+    <Price type="string">2.99</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">481.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5027</PLU>
+    <Item type="string">Chicken Kabobs (seasoned)</Item>
+    <Price type="string">10.95</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">581.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5031</PLU>
+    <Item type="string">Breast - Bone-In Split with Skin</Item>
+    <Price type="string">3.89</Price>
+    <CutType type="string">Chicken Breast</CutType>
+    <PoundsSold type="number">402.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5055</PLU>
+    <Item type="string">Leg Quarters</Item>
+    <Price type="string">2.19</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">562.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5060</PLU>
+    <Item type="string">Chicken Tenders</Item>
+    <Price type="string">2.49</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">585.5</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5061</PLU>
+    <Item type="string">Stuffed Fryer</Item>
+    <Price type="string">4.29</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">556.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5063</PLU>
+    <Item type="string">Chicken Backs</Item>
+    <Price type="string">1.99</Price>
+    <CutType type="string">Traditional Chicken</CutType>
+    <PoundsSold type="number">426.2</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5093</PLU>
+    <Item type="string">Orange Classic</Item>
+    <Price type="string">5.69</Price>
+    <CutType type="string">Marinated Chicken</CutType>
+    <PoundsSold type="number">367.7</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5094</PLU>
+    <Item type="string">Tomato Basil</Item>
+    <Price type="string">5.69</Price>
+    <CutType type="string">Marinated Chicken</CutType>
+    <PoundsSold type="number">378.6</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5095</PLU>
+    <Item type="string">Garlic Butter</Item>
+    <Price type="string">5.69</Price>
+    <CutType type="string">Marinated Chicken</CutType>
+    <PoundsSold type="number">389.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5096</PLU>
+    <Item type="string">Garlic Herb Parmesean</Item>
+    <Price type="string">5.69</Price>
+    <CutType type="string">Marinated Chicken</CutType>
+    <PoundsSold type="number">400.7</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5097</PLU>
+    <Item type="string">Lemon Pepper</Item>
+    <Price type="string">5.69</Price>
+    <CutType type="string">Marinated Chicken</CutType>
+    <PoundsSold type="number">355.4</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5098</PLU>
+    <Item type="string">Golden Italian</Item>
+    <Price type="string">5.69</Price>
+    <CutType type="string">Marinated Chicken</CutType>
+    <PoundsSold type="number">286</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">5151</PLU>
+    <Item type="string">5# or more</Item>
+    <Price type="string">4.45</Price>
+    <CutType type="string">Chicken Breast</CutType>
+    <PoundsSold type="number">499.6</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">8510</PLU>
+    <Item type="string">Breast - Ground(1# frozen) (Purple Packs)</Item>
+    <Price type="string">4.95</Price>
+    <CutType type="string">Chicken Breast</CutType>
+    <PoundsSold type="number">644.1</PoundsSold>
+  </item>
+  <item type="object">
+    <PLU type="number">9922</PLU>
+    <Item type="string">40# Case</Item>
+    <Price type="string">3.95</Price>
+    <CutType type="string">Chicken Breast</CutType>
+    <PoundsSold type="number">295.8</PoundsSold>
+  </item>
+</root>

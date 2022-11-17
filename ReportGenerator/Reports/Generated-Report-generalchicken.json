@@ -1,0 +1,205 @@
+[
+ {
+  "PLU": 500,
+  "Item": "Boneless Breast",
+  "Price": "4.95",
+  "CutType": "Chicken Breast",
+  "PoundsSold": 3000.1
+ },
+ {
+  "PLU": 501,
+  "Item": "10# or more",
+  "Price": "4.45",
+  "CutType": "Chicken Breast",
+  "PoundsSold": 145
+ },
+ {
+  "PLU": 502,
+  "Item": "8-pc Cut-up Fryer",
+  "Price": "2.99",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 631.1
+ },
+ {
+  "PLU": 504,
+  "Item": "Drumsticks",
+  "Price": "2.39",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 387.4
+ },
+ {
+  "PLU": 506,
+  "Item": "Whole Fryer",
+  "Price": "1.99",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 652.6
+ },
+ {
+  "PLU": 512,
+  "Item": "Breast - Boneless Stuffed",
+  "Price": "5.99",
+  "CutType": "Chicken Breast",
+  "PoundsSold": 431
+ },
+ {
+  "PLU": 513,
+  "Item": "Wings",
+  "Price": "3.19",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 641.5
+ },
+ {
+  "PLU": 2413,
+  "Item": "Italian",
+  "Price": "3.89",
+  "CutType": "Chicken Sausage",
+  "PoundsSold": 186.6
+ },
+ {
+  "PLU": 2565,
+  "Item": "Buffalo",
+  "Price": "3.89",
+  "CutType": "Chicken Sausage",
+  "PoundsSold": 224.9
+ },
+ {
+  "PLU": 2566,
+  "Item": "Apple Maple",
+  "Price": "3.89",
+  "CutType": "Chicken Sausage",
+  "PoundsSold": 254.2
+ },
+ {
+  "PLU": 5011,
+  "Item": "Thin Chicken Breast",
+  "Price": "5.95",
+  "CutType": "Chicken Breast",
+  "PoundsSold": 259.1
+ },
+ {
+  "PLU": 5014,
+  "Item": "Thighs",
+  "Price": "2.49",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 297.8
+ },
+ {
+  "PLU": 5015,
+  "Item": "Thighs - Boneless",
+  "Price": "2.89",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 609.1
+ },
+ {
+  "PLU": 5023,
+  "Item": "Split Fryer",
+  "Price": "2.99",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 481.1
+ },
+ {
+  "PLU": 5027,
+  "Item": "Chicken Kabobs (seasoned)",
+  "Price": "10.95",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 581.4
+ },
+ {
+  "PLU": 5031,
+  "Item": "Breast - Bone-In Split with Skin",
+  "Price": "3.89",
+  "CutType": "Chicken Breast",
+  "PoundsSold": 402.2
+ },
+ {
+  "PLU": 5055,
+  "Item": "Leg Quarters",
+  "Price": "2.19",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 562.2
+ },
+ {
+  "PLU": 5060,
+  "Item": "Chicken Tenders",
+  "Price": "2.49",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 585.5
+ },
+ {
+  "PLU": 5061,
+  "Item": "Stuffed Fryer",
+  "Price": "4.29",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 556.4
+ },
+ {
+  "PLU": 5063,
+  "Item": "Chicken Backs",
+  "Price": "1.99",
+  "CutType": "Traditional Chicken",
+  "PoundsSold": 426.2
+ },
+ {
+  "PLU": 5093,
+  "Item": "Orange Classic",
+  "Price": "5.69",
+  "CutType": "Marinated Chicken",
+  "PoundsSold": 367.7
+ },
+ {
+  "PLU": 5094,
+  "Item": "Tomato Basil",
+  "Price": "5.69",
+  "CutType": "Marinated Chicken",
+  "PoundsSold": 378.6
+ },
+ {
+  "PLU": 5095,
+  "Item": "Garlic Butter",
+  "Price": "5.69",
+  "CutType": "Marinated Chicken",
+  "PoundsSold": 389.1
+ },
+ {
+  "PLU": 5096,
+  "Item": "Garlic Herb Parmesean",
+  "Price": "5.69",
+  "CutType": "Marinated Chicken",
+  "PoundsSold": 400.7
+ },
+ {
+  "PLU": 5097,
+  "Item": "Lemon Pepper",
+  "Price": "5.69",
+  "CutType": "Marinated Chicken",
+  "PoundsSold": 355.4
+ },
+ {
+  "PLU": 5098,
+  "Item": "Golden Italian",
+  "Price": "5.69",
+  "CutType": "Marinated Chicken",
+  "PoundsSold": 286
+ },
+ {
+  "PLU": 5151,
+  "Item": "5# or more",
+  "Price": "4.45",
+  "CutType": "Chicken Breast",
+  "PoundsSold": 499.6
+ },
+ {
+  "PLU": 8510,
+  "Item": "Breast - Ground(1# frozen) (Purple Packs)",
+  "Price": "4.95",
+  "CutType": "Chicken Breast",
+  "PoundsSold": 644.1
+ },
+ {
+  "PLU": 9922,
+  "Item": "40# Case",
+  "Price": "3.95",
+  "CutType": "Chicken Breast",
+  "PoundsSold": 295.8
+ }
+]
